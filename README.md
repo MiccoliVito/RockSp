@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -209,14 +208,15 @@ We went on a thrilling journey to explore American rock music. Using Wikidata an
     <a href="https://projects.dharc.unibo.it/melody/1686588464.951175/exploring_rock_bands_in_the_usa">
        <img src="WhatsApp Image 2023-06-14 at 19.51.38.jpeg" alt="Image 1" width="400" height="250" />
   
-      <img src="" alt="Image 2" width="400" height="250" /> </a>
+      <img src="WhatsApp Image 2023-06-14 at 19.51.15.jpeg" alt="Image 2" width="400" height="250" /> </a>
     </div>
   </div>
 <br />
   
 
 
-</body></html>
+</body>
+      </html>
 
 
       
