@@ -96,7 +96,7 @@ body {
     }
 
     h1 {
-      color: #FFF;
+      color: #343a90;
       font-family: 'Playfair Display', serif;
       font-size: 36px;
       margin: 0;
