@@ -73,7 +73,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #990a00;
+  background-color: #343a90;
   color: white;
 }
 </style>
@@ -89,7 +89,7 @@ body {
     }
 
     .title-box {
-      background-color: #0000FF;
+      background-color: #343a90;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -103,7 +103,7 @@ body {
     }
 
     h2 {
-      color: #0000FF;
+      color: #343a90;
       font-family: 'Playfair Display', serif;
       font-size: 20px;
       margin-top: 10px;
@@ -162,7 +162,7 @@ body {
 
 /* Style the footer */
 footer {
-  background-color: #990a00;
+  background-color: #343a90;
   padding: 10px;
   text-align: left;
   color: white;
