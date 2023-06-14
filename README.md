@@ -207,9 +207,9 @@ We went on a thrilling journey to explore American rock music. Using Wikidata an
   <div class="section">
     <div class="section-image">
     <a href="https://projects.dharc.unibo.it/melody/1686588464.951175/exploring_rock_bands_in_the_usa">
-       <img src="screen infuential.jpg" alt="Image 1" width="400" height="240" />
+       <img src="WhatsApp Image 2023-06-14 at 19.51.38.jpeg" alt="Image 1" width="400" height="250" />
   
-      <img src="Screen mappa.jpg" alt="Image 2" width="400" height="240" /> </a>
+      <img src="" alt="Image 2" width="400" height="250" /> </a>
     </div>
   </div>
 <br />
