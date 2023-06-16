@@ -95,21 +95,28 @@ body {
       text-align: center;
     }
 
-    h1 {
+     h1 {
       color: #FFF;
-      font-family: 'Playfair Display', serif;
+      font-family: 'Encode Sans Condensed Medium';
       font-size: 36px;
       margin: 0;
     }
 
     h2 {
       color: #343a90;
-      font-family: 'Playfair Display', serif;
+      font-family: 'Encode Sans Condensed Medium';
       font-size: 20px;
       margin-top: 10px;
-      font-style: italic;
+      font-style: Encode Sans Condensed Medium;
     }
-
+    
+     h3 {
+      color: #343a90;
+      font-family: 'Encode Sans Condensed Medium';
+      font-size: 16px;
+      margin-top: 17px;
+      font-style: Encode Sans Condesed Medium;
+    }
     .article {
       display: flex;
       align-items: center;
@@ -160,13 +167,6 @@ body {
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
-/* Style the footer */
-footer {
-  background-color: #343a90;
-  padding: 10px;
-  text-align: left;
-  color: white;
-}
 
   </style>
 </head>
