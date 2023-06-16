@@ -186,7 +186,7 @@ body {
   </div>
 
   <h2><em>Written by: Serena Sciortino, Vito Antonio Miccoli, Gilda Gitto</em></h2>
-  <p class="small-italic">Get ready for an amazing adventure into the world of rock music in the USA. We'll explore the huge number of bands, the exciting stadiums they perform in, and the talented members that make up these groups. We'll also discover when these bands formed and how their music evolved over time. Along the way, we'll see cool pictures of rock bands and their unique styles. Plus, we'll dive into the story of Guns N' Roses, learning about their band members, hit albums, and when they were released. Get ready to rock out to the incredible music and stories that define American rock!</p>
+  <p class="italic">Get ready for an amazing adventure into the world of rock music in the USA. We'll explore the huge number of bands, the exciting stadiums they perform in, and the talented members that make up these groups. We'll also discover when these bands formed and how their music evolved over time. Along the way, we'll see cool pictures of rock bands and their unique styles. Plus, we'll dive into the story of Guns N' Roses, learning about their band members, hit albums, and when they were released. Get ready to rock out to the incredible music and stories that define American rock!</p>
 
  <h3>Keywords: data journalism, music analysis, rock genre, USA rock bands, insights, Wikidata, Melody.</h3>
 
