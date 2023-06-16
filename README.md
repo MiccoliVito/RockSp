@@ -188,10 +188,11 @@ body {
   <h2><em>Written by: Serena Sciortino, Vito Antonio Miccoli, Gilda Gitto</em></h2>
   <p class="small-italic">Get ready for an amazing adventure into the world of rock music in the USA. We'll explore the huge number of bands, the exciting stadiums they perform in, and the talented members that make up these groups. We'll also discover when these bands formed and how their music evolved over time. Along the way, we'll see cool pictures of rock bands and their unique styles. Plus, we'll dive into the story of Guns N' Roses, learning about their band members, hit albums, and when they were released. Get ready to rock out to the incredible music and stories that define American rock!</p>
 
+ <h3>Keywords: data journalism, music analysis, rock genre, USA rock bands, insights, Wikidata, Melody.</h3>
 
   <div class="article">
     <div class="article-text">
-      <p> Keywords: data journalism, music analysis, rock genre, USA rock bands, insights, Wikidata, Melody 
+      <p>
 We went on a thrilling journey to explore American rock music. Using Wikidata and the Melody platform, we wanted to uncover the secret stories behind the thriving rock band scene in the United States. Our journey started with an amazing revelation: Wikidata contained records of a whopping 17,628 music bands in the USA, out of which 633 were classified as rock bands. These numbers clearly demonstrated the significant presence and popularity of rock music across the country. To explore where these rock bands perform, we used the Melody platform and a simple query to create a map showing the locations of stadiums hosting rock concerts. This visual representation gave us a glimpse into the diverse cities and venues that have embraced the power of rock music. To understand when rock bands formed, we used data from Wikidata to generate a captivating line chart. The chart revealed that a significant number of influential bands emerged between 1989 and 2000, followed by another notable wave between 2001 and 2004. These periods marked important milestones in the evolution of American rock music.</p>
     </div>
     <div class="article-image">
