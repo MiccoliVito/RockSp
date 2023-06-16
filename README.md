@@ -156,7 +156,7 @@ body {
 
     .small-italic {
       font-style: italic;
-      font-size: 13px;
+      font-size: 15px;
       font-family: 'Times New Roman', serif;
     }
 
